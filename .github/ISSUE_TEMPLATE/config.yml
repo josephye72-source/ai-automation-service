@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Inspect the demo repository
+    url: https://github.com/josephye72-source/yala-ai-ops-p0-demo
+    about: Review the FastAPI and n8n P0 workflow demo before opening an intake.
+
