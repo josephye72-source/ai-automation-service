@@ -13,6 +13,7 @@ Public assets:
 
 - Service page: https://josephye72-source.github.io/ai-automation-service/
 - Paid trial intake: https://github.com/josephye72-source/ai-automation-service/issues/new?template=paid-trial.md
+- Public intake thread: https://github.com/josephye72-source/ai-automation-service/issues/1
 - Demo repo: https://github.com/josephye72-source/yala-ai-ops-p0-demo
 - GitHub profile: https://github.com/josephye72-source
 
