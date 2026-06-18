@@ -18,6 +18,10 @@ Voice AI paid pilot:
 
 https://github.com/josephye72-source/ai-automation-service/issues/2
 
+Mortgage servicing copilot proof:
+
+https://github.com/josephye72-source/yala-ai-ops-p0-demo/tree/main/examples/servicing_copilot_bakeoff
+
 Typical first milestones:
 
 - RMB 1500-2000: paid trial, mock or real P0 workflow, field schema, interface notes, handoff document.
@@ -48,5 +52,6 @@ Public assets:
 - Paid trial intake: https://github.com/josephye72-source/ai-automation-service/issues/new?template=paid-trial.md
 - Public intake thread: https://github.com/josephye72-source/ai-automation-service/issues/1
 - Voice AI paid pilot: https://github.com/josephye72-source/ai-automation-service/issues/2
+- Mortgage servicing copilot proof: https://github.com/josephye72-source/yala-ai-ops-p0-demo/tree/main/examples/servicing_copilot_bakeoff
 - Demo repo: https://github.com/josephye72-source/yala-ai-ops-p0-demo
 - GitHub profile: https://github.com/josephye72-source
